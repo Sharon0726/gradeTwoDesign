@@ -1,0 +1,92 @@
+|trippleAdder
+s0 <= fullAdder:inst1.S
+x0 => fullAdder:inst1.X
+y0 => fullAdder:inst1.Y
+c0 => fullAdder:inst1.Z
+s1 <= fullAdder:inst2.S
+x1 => fullAdder:inst2.X
+y1 => fullAdder:inst2.Y
+s2 <= fullAdder:inst3.S
+x2 => fullAdder:inst3.X
+y2 => fullAdder:inst3.Y
+Cout <= fullAdder:inst3.C
+
+
+|trippleAdder|fullAdder:inst1
+S <= halfAdder:inst3.S
+X => halfAdder:inst2.X
+Y => halfAdder:inst2.Y
+Z => halfAdder:inst3.Y
+C <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|trippleAdder|fullAdder:inst1|halfAdder:inst3
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+X => inst2.IN0
+X => inst.IN0
+Y => inst2.IN1
+Y => inst.IN1
+C <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|trippleAdder|fullAdder:inst1|halfAdder:inst2
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+X => inst2.IN0
+X => inst.IN0
+Y => inst2.IN1
+Y => inst.IN1
+C <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|trippleAdder|fullAdder:inst2
+S <= halfAdder:inst3.S
+X => halfAdder:inst2.X
+Y => halfAdder:inst2.Y
+Z => halfAdder:inst3.Y
+C <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|trippleAdder|fullAdder:inst2|halfAdder:inst3
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+X => inst2.IN0
+X => inst.IN0
+Y => inst2.IN1
+Y => inst.IN1
+C <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|trippleAdder|fullAdder:inst2|halfAdder:inst2
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+X => inst2.IN0
+X => inst.IN0
+Y => inst2.IN1
+Y => inst.IN1
+C <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|trippleAdder|fullAdder:inst3
+S <= halfAdder:inst3.S
+X => halfAdder:inst2.X
+Y => halfAdder:inst2.Y
+Z => halfAdder:inst3.Y
+C <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|trippleAdder|fullAdder:inst3|halfAdder:inst3
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+X => inst2.IN0
+X => inst.IN0
+Y => inst2.IN1
+Y => inst.IN1
+C <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|trippleAdder|fullAdder:inst3|halfAdder:inst2
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+X => inst2.IN0
+X => inst.IN0
+Y => inst2.IN1
+Y => inst.IN1
+C <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+

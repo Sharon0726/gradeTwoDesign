@@ -1,0 +1,165 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Sharon\OneDrive\grade2\lab2-2\simulation\qsim
+vfullSub
+Z1 !s100 6@^`5<l0TSGW7_f`HET[n0
+Z2 IC`Jz@NRLXn2FEcPD;[P5=1
+Z3 VCT`T?7TSRng:clz5h<`^71
+Z4 dC:\Users\Sharon\OneDrive\grade2\lab2-2\simulation\qsim
+Z5 w1697094896
+Z6 8lab2-2.vo
+Z7 Flab2-2.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|lab2-2.vo|
+Z10 o-work work -O0
+Z11 nfull@sub
+!i10b 1
+!s85 0
+Z12 !s108 1697094897.180000
+Z13 !s107 lab2-2.vo|
+!s101 -O0
+vfullSub_vlg_check_tst
+!i10b 1
+Z14 !s100 ?ROAbSHkIhTfGH1RSPO?90
+Z15 IS5azUX5b]hh_STP19fNDC2
+Z16 VYXSZh>EFb8DPhdV]dRz_X0
+R4
+Z17 w1697094895
+Z18 8lab2-2.vt
+Z19 Flab2-2.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z20 !s108 1697094897.244000
+Z21 !s107 lab2-2.vt|
+Z22 !s90 -work|work|lab2-2.vt|
+!s101 -O0
+R10
+Z23 nfull@sub_vlg_check_tst
+vfullSub_vlg_sample_tst
+!i10b 1
+Z24 !s100 Ah@B`eg=SonnFiY6S5gVR0
+Z25 IQaC<`OiO_I[jhJB]`ZdLN0
+Z26 V>a_KEnO_Ui?[CkL]aBb:T3
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 nfull@sub_vlg_sample_tst
+vfullSub_vlg_vec_tst
+!i10b 1
+!s100 QC2dKR_]E7>gWA6A9D]oj0
+I5M6M3DH>F_89<:G;4V@ci3
+Z28 VfEQjQSzP29?eL6gSiB:I42
+R4
+R17
+R18
+R19
+Z29 L0 183
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z30 nfull@sub_vlg_vec_tst
+vhalfSub
+Z31 I_Ja;;XV9UR4^bmEAb39^23
+Z32 VUZ0CAl_]8JGjz9h:2[aoT1
+R4
+Z33 w1697093462
+R6
+R7
+L0 31
+R8
+r1
+31
+R10
+Z34 nhalf@sub
+Z35 !s100 @QH[gaF402>IQPMK]CEg>0
+Z36 !s108 1697093462.942000
+R13
+R9
+!i10b 1
+!s85 0
+!s101 -O0
+vhalfSub_vlg_check_tst
+Z37 I^M10H]ocCkkn]:9R<_X2L2
+Z38 VW1<LI9m1:HU25gQ=daUff1
+R4
+Z39 w1697093461
+R18
+R19
+L0 59
+R8
+r1
+31
+Z40 !s108 1697093463.006000
+Z41 !s107 lab2-2.vt|
+R22
+R10
+Z42 nhalf@sub_vlg_check_tst
+Z43 !s100 S31m0_aALDTR5^gNlJgm?3
+!i10b 1
+!s85 0
+!s101 -O0
+vhalfSub_vlg_sample_tst
+Z44 I]d9l0co9V]Z;@`fOC;<Bl2
+Z45 V5o=n6hM1DnGRTi7JRifL<2
+R4
+R39
+R18
+R19
+L0 29
+R8
+r1
+31
+R40
+R41
+R22
+R10
+Z46 nhalf@sub_vlg_sample_tst
+Z47 !s100 BXMH;@=6K5Ka^MmI0Z_YE1
+!i10b 1
+!s85 0
+!s101 -O0
+vhalfSub_vlg_vec_tst
+Z48 ILGQ_beVWW]zAYP:lHF;i91
+Z49 VkXcoTcKdF`>fKk<kj^k^B3
+R4
+R39
+R18
+R19
+Z50 L0 181
+R8
+r1
+31
+R40
+R41
+R22
+R10
+Z51 nhalf@sub_vlg_vec_tst
+Z52 !s100 f_CdG<HALQB<HFE1b?NZA2
+!i10b 1
+!s85 0
+!s101 -O0

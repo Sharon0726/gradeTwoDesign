@@ -1,0 +1,165 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Sharon\OneDrive\grade2\lab2_2\simulation\qsim
+vhalfAdder
+Z1 Ik<o^8A3VZl@bMF9MIWU`71
+Z2 V8;Qh[H4P@_le9]H`:OjK[2
+Z3 dC:\Users\Sharon\OneDrive\grade2\lab2_2\simulation\qsim
+Z4 w1697091150
+Z5 8lab2_2.vo
+Z6 Flab2_2.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 nhalf@adder
+Z10 !s100 Y@imMO9Z@?k[5LK[gB;7z0
+Z11 !s108 1697091152.865000
+Z12 !s107 lab2_2.vo|
+Z13 !s90 -work|work|lab2_2.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vhalfAdder_vlg_check_tst
+Z14 IKYgl0L2YJWOI_B^]=5QI]2
+Z15 VQDGh]m>daLYQgei:bz^`]1
+R3
+Z16 w1697091149
+Z17 8lab2_2.vt
+Z18 Flab2_2.vt
+L0 59
+R7
+r1
+31
+Z19 !s108 1697091152.938000
+Z20 !s107 lab2_2.vt|
+Z21 !s90 -work|work|lab2_2.vt|
+R8
+Z22 nhalf@adder_vlg_check_tst
+Z23 !s100 G9?fV]9NQNY[[:?Fmi5B@2
+!i10b 1
+!s85 0
+!s101 -O0
+vhalfAdder_vlg_sample_tst
+Z24 ISVh:eR3k_ER_X^eEl[WQ11
+Z25 V:cNCLP`MCY?1R2H@LN?L00
+R3
+R16
+R17
+R18
+L0 29
+R7
+r1
+31
+R19
+R20
+R21
+R8
+Z26 nhalf@adder_vlg_sample_tst
+Z27 !s100 :o<6TCH1f714`i?]F3DIk2
+!i10b 1
+!s85 0
+!s101 -O0
+vhalfAdder_vlg_vec_tst
+Z28 I7YGZW[gGnZmZ@oV6gn3Aa0
+Z29 Vl8d2h02;6oBkjDEMcLdR21
+R3
+R16
+R17
+R18
+Z30 L0 181
+R7
+r1
+31
+R19
+R20
+R21
+R8
+Z31 nhalf@adder_vlg_vec_tst
+Z32 !s100 ^d`Lj`XZ;R7`iK`;3g8Ze0
+!i10b 1
+!s85 0
+!s101 -O0
+vtrippleAdder
+Z33 IoAA2CfYKALSABN]185eJ=3
+Z34 VR7mFgkBOV[V9Hc]_iJl0Y1
+R3
+Z35 w1697092127
+R5
+R6
+L0 31
+R7
+r1
+31
+R13
+R8
+Z36 ntripple@adder
+!i10b 1
+Z37 !s100 OO5i6i?Wm6Ch=[AWja`aY3
+!s85 0
+Z38 !s108 1697092128.530000
+R12
+!s101 -O0
+vtrippleAdder_vlg_check_tst
+!i10b 1
+!s100 WWPf2kg1LM:Ti2J[SfznK0
+I>bHIQ1JYcdm`lEMb@kc^60
+Vl`]iSPf3BndkQ[A@TdEi_2
+R3
+R35
+R17
+R18
+L0 69
+R7
+r1
+!s85 0
+31
+Z39 !s108 1697092128.610000
+Z40 !s107 lab2_2.vt|
+R21
+!s101 -O0
+R8
+ntripple@adder_vlg_check_tst
+vtrippleAdder_vlg_sample_tst
+!i10b 1
+!s100 MQ>XLhTgm?`eS0jZkiFVe0
+I7YgAQJXO4nD2k;lG991e00
+VGP>12`ga]I4ZYcbLD?cdY0
+R3
+R35
+R17
+R18
+L0 29
+R7
+r1
+!s85 0
+31
+R39
+R40
+R21
+!s101 -O0
+R8
+ntripple@adder_vlg_sample_tst
+vtrippleAdder_vlg_vec_tst
+!i10b 1
+!s100 07SK`zFk^om=?X9[?b?n>3
+Io=f=4KMJD?<fKJ7o0VA_g0
+VR29kbajA7Zb9=QbYFSF`R3
+R3
+R35
+R17
+R18
+L0 245
+R7
+r1
+!s85 0
+31
+R39
+R40
+R21
+!s101 -O0
+R8
+ntripple@adder_vlg_vec_tst

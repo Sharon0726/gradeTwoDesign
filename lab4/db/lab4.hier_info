@@ -1,0 +1,19 @@
+|multiply_3x3
+A[0] => ~NO_FANOUT~
+A[1] => ~NO_FANOUT~
+A[2] => ~NO_FANOUT~
+A[3] => Mult0.IN0
+B[0] => ~NO_FANOUT~
+B[1] => ~NO_FANOUT~
+B[2] => ~NO_FANOUT~
+B[3] => Mult0.IN1
+P[0] <= <GND>
+P[1] <= <GND>
+P[2] <= <GND>
+P[3] <= <GND>
+P[4] <= <GND>
+P[5] <= <GND>
+P[6] <= Mult0.DB_MAX_OUTPUT_PORT_TYPE
+P[7] <= Mult0.DB_MAX_OUTPUT_PORT_TYPE
+
+

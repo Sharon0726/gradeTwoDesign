@@ -1,0 +1,161 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Sharon\OneDrive\grade2\lab3_2\simulation\qsim
+vfour_bits_bcd_adder
+Z1 !s100 HHhFG`dUa^QI9l4G^gAKH0
+Z2 I<jBS746G6gU70mlRcFLek3
+Z3 V:UZ_6;L2G8j:57V2=eg=03
+Z4 dC:\Users\Sharon\OneDrive\grade2\lab3_2\simulation\qsim
+Z5 w1697704499
+Z6 8fourBitsBCD.vo
+Z7 FfourBitsBCD.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|fourBitsBCD.vo|
+Z10 o-work work -O0
+Z11 !s108 1697704500.129000
+Z12 !s107 fourBitsBCD.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vfour_bits_bcd_adder_vlg_check_tst
+Z13 !s100 WnJkJYjE8dW=1KARKAAk40
+Z14 I^:kQoXYIl:GBYTDih?WkQ0
+Z15 VmoY^;67@dDgFCj0dC[3Gl2
+R4
+Z16 w1697704498
+Z17 8fourBitsBCD.vt
+Z18 FfourBitsBCD.vt
+L0 61
+R8
+r1
+31
+Z19 !s108 1697704500.213000
+Z20 !s107 fourBitsBCD.vt|
+Z21 !s90 -work|work|fourBitsBCD.vt|
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vfour_bits_bcd_adder_vlg_sample_tst
+Z22 !s100 4QFf>1dk<P9GN4keg80mb2
+Z23 If7=UB5f6kHc9]MD4E<Xg63
+Z24 VOcb1eI3OSPME>N52UaZbl2
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+31
+R19
+R20
+R21
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vfour_bits_bcd_adder_vlg_vec_tst
+Z25 !s100 ZKl2EhUR2Qjfhez`naa7M3
+Z26 I;b[^h_iD4W2:`>fY?5m6i2
+Z27 VBeNa90BdP>Jk`8Z=h?4F<2
+R4
+R16
+R17
+R18
+Z28 L0 236
+R8
+r1
+31
+R19
+R20
+R21
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vfourBitsBCD
+Z29 !s100 R=1b2[>k7Ll`0d^DAm5FK3
+Z30 Iz2QeUz4N3:EDQ0cP:Df?f1
+Z31 V?m?P<dKCDY<ojoJXnR`]K3
+R4
+Z32 w1697897415
+R6
+R7
+L0 31
+R8
+r1
+31
+R9
+R10
+Z33 nfour@bits@b@c@d
+!i10b 1
+!s85 0
+Z34 !s108 1697897415.561000
+R12
+!s101 -O0
+vfourBitsBCD_vlg_check_tst
+!i10b 1
+Z35 !s100 ^j^;lD9NFEJYB=3JSS`RR1
+Z36 I85I^=?C4]egJnH>oeZnJD0
+Z37 V4U9O5ANJ1o1n>fXlfEDR10
+R4
+Z38 w1697897414
+R17
+R18
+L0 61
+R8
+r1
+!s85 0
+31
+Z39 !s108 1697897415.616000
+Z40 !s107 fourBitsBCD.vt|
+R21
+!s101 -O0
+R10
+Z41 nfour@bits@b@c@d_vlg_check_tst
+vfourBitsBCD_vlg_sample_tst
+!i10b 1
+Z42 !s100 QZFP2;7R5LFcd:NG]GZOf3
+Z43 IhCP_:aGeE^eb;YO:<FmAH0
+Z44 VzUF=]N[0?nED=DVI^78K]0
+R4
+R38
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R39
+R40
+R21
+!s101 -O0
+R10
+Z45 nfour@bits@b@c@d_vlg_sample_tst
+vfourBitsBCD_vlg_vec_tst
+!i10b 1
+!s100 YPP0eN;bKl6B3F>ao2X4U3
+I9N_0RXH@58?56^4oPBDog2
+Z46 VmnzORlfQ_oOnG]IKT0>:b3
+R4
+R38
+R17
+R18
+R28
+R8
+r1
+!s85 0
+31
+R39
+R40
+R21
+!s101 -O0
+R10
+Z47 nfour@bits@b@c@d_vlg_vec_tst

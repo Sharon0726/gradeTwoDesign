@@ -1,0 +1,26 @@
+|fullSub
+Bo <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+x => halfSub:inst3.x
+y => halfSub:inst3.y
+b => halfSub:inst1.y
+Di <= halfSub:inst1.Di
+
+
+|fullSub|halfSub:inst3
+Bo <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+x => inst1.IN0
+x => inst3.IN0
+y => inst2.IN1
+y => inst3.IN1
+Di <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|fullSub|halfSub:inst1
+Bo <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+x => inst1.IN0
+x => inst3.IN0
+y => inst2.IN1
+y => inst3.IN1
+Di <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,13 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Sharon/OneDrive/grade2/lab2-2/halfSub.bdf
+source_file = 1, C:/Users/Sharon/OneDrive/grade2/lab2-2/halfSub.vwf
+source_file = 1, C:/Users/Sharon/OneDrive/grade2/lab2-2/fullSub.bdf
+source_file = 1, C:/Users/Sharon/OneDrive/grade2/lab2-2/fullSub.vwf
+source_file = 1, C:/Users/Sharon/OneDrive/grade2/lab2-2/db/lab2-2.cbx.xml
+design_name = fullSub
+instance = comp, \y~I , y, fullSub, 1
+instance = comp, \x~I , x, fullSub, 1
+instance = comp, \b~I , b, fullSub, 1
+instance = comp, \inst1|inst3 , inst1|inst3, fullSub, 1
+instance = comp, \Bo~I , Bo, fullSub, 1
+instance = comp, \Di~I , Di, fullSub, 1

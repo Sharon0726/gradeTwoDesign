@@ -1,0 +1,17 @@
+module multiply_3x3(
+  input [3:0] A,  // 4位BCD數字1
+  input [3:0] B,  // 4位BCD數字2
+  output reg [7:0] P  // 8位BCD產品
+);
+
+always @(*) begin
+  P = 8'b0;  // 初始化產品
+
+  for (i = 0; i < 4; i = i + 1) begin
+    for (j = 0; j < 4; j = j + 1) begin
+      P = P + (A[i] * B[j]) << (i + j);  // 進行每一位的乘法和位移
+    end
+  end
+end
+
+endmodule
